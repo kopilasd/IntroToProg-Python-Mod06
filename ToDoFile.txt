@@ -1,3 +1,0 @@
-Laundry,high
-clean,high
-hunt for sale items,high
